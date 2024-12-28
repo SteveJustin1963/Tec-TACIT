@@ -1,5 +1,7 @@
 # Tec-TACIT
 
+![image](https://github.com/user-attachments/assets/fe957ac8-b730-47ad-bce0-20a7b91b2aad)
+
 - https://github.com/jhlagado/Tacit
 - https://github.com/SteveJustin1963/Tec-TACIT/wiki
 
