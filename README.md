@@ -4,6 +4,8 @@ https://github.com/jhlagado/Tacit
 
 A software design philosophy where functions operate without explicitly naming their arguments
 
+The current source code has only just begub and lacks almost all features.
+
 
 # TACIT Programming Language - Core Language Reference
 
