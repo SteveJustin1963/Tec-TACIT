@@ -1,10 +1,12 @@
 # Tec-TACIT
 
-https://github.com/jhlagado/Tacit
+- https://github.com/jhlagado/Tacit
+- https://github.com/SteveJustin1963/Tec-TACIT/wiki
 
 A software design philosophy where functions operate without explicitly naming their arguments
 
-The current source code has only just begub and lacks almost all features.
+The current source code has only just begun and lacks almost all features.
+
 
 
 # TACIT Programming Language - Core Language Reference
